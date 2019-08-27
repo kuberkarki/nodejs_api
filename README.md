@@ -2,7 +2,8 @@
 Simple restful API test with node.js, express and mongodb
 
 
-## clone this
+## Installation
+    -clone this repo
     -Create/signin in https://cloud.mongodb.com/
     -Create a cluster in cloud.mongodb.com
     -add DB=<your db detail from cloud db> in .env
